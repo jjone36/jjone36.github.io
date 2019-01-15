@@ -1,0 +1,12 @@
+title: Jiwon Jeong - Portfolio
+author: Jiwon Jeong
+email: jiwon.j306@gmail.com
+description: Jiwon Jeong - Data Science, Machine Learning, Deep Learning, Data Visualisation, Business Strategy
+url: "https://jjone36.github.io"
+github_username:  jjone36
+#google_analytics: UA-110543961-1
+
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
