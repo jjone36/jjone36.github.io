@@ -1,6 +1,6 @@
 # Portfolio repo
 
-![page](https://github.com/jjone36/jjone36.github.io/blob/master/images/page.png)
+<img src=\"page.png\" style=\"width:600px;height:400px;\">
 
 👉 Go to Jiwon's **[portfolio webpage](https://jjone36.github.io/)**
 
