@@ -1,1 +1,3 @@
-# jjone36.github.io
+# Portfolio repo
+
+👉 Jiwon's **[portfolio webpage](https://jjone36.github.io/)**
