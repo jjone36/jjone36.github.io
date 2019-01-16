@@ -5,4 +5,4 @@
 ![page](https://github.com/jjone36/jjone36.github.io/blob/master/page.png)
 
 
-Thanks to [Greg Surma](https://gsurma.github.io/) for the templete!
+🙏 Thanks to [Greg Surma](https://gsurma.github.io/) for the template!
