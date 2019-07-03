@@ -40,7 +40,7 @@ body {
 
 .btn-linkedin {
     background: #8A2BE2;
-    border-color: #8A2BE2;    
+    border-color: #8A2BE2;
 }
 
 .btn-github {
@@ -113,7 +113,7 @@ body {
 
 .icon:hover i {
     transform: scale(1.2);
-    color: #4B0082
+    color: #db3262
 }
 
 /* .icon-linkedin {
@@ -130,8 +130,8 @@ body {
 
 .icon-email {
     color: greenyellow;
-}
- */
+} */
+
 
  .card-title {
     text-decoration: none;
@@ -155,4 +155,53 @@ body {
 .card:hover {
     transform: scale(1.055);
     /* color: #4B0082 */
+}
+
+.txtb {
+    width: 25%;
+    text-align-last:center;
+    font-size: 23px;
+    border: 1px solid gray;
+    margin: 30 30;
+    padding: 10;
+    border-radius: 20px;
+}
+
+/* .txtb label:before{
+    content: "\f007";
+    font-family: "fontAwesome";
+    color : #0C1D2E;
+} */
+
+.txtb label{
+    display: block;
+    text-align: left;
+    text-align: absolute;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.txtb input, .txtb textarea{
+    width: 70%;
+    border: none;
+    background: #f7f9fc;
+    outline: gray;
+    font-size: 23px;
+    margin-top: 5px;
+}
+
+.btn{
+    display: inline-block;
+    border: 1px solid gray;
+    border-radius: 20px;
+    font-size: 23px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #f7f9fc;
+    width: 250px;
+    height: 50px;
+}
+.btn:hover {
+    color: #db3262;
+    transform: scale(1.1);
 }
