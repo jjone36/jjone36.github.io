@@ -175,7 +175,7 @@ body {
 
 .txtb label{
     display: block;
-    text-align: left;
+    /* text-align: left; */
     text-align: absolute;
     font-weight: bold;
     text-transform: uppercase;
