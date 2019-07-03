@@ -163,7 +163,7 @@ body {
     font-size: 23px;
     border: 1px solid gray;
     padding: 10;
-    /* margin: 30 30; */
+    margin: 30 30;
     border-radius: 20px;
 }
 
@@ -187,7 +187,7 @@ body {
     background: #f7f9fc;
     outline: gray;
     font-size: 23px;
-    margin-top: 5px;
+    margin: 4 2;
 }
 
 .btn{
