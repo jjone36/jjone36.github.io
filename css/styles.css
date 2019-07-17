@@ -76,7 +76,13 @@ body {
 
 .projectFilter a.current {
     font-weight: bold;
+    color: #db3262;
 }
+
+/* .projectFilter a:hover {
+    color: #db3262;
+    font-weight: bold;
+} */
 
 .isotope-item {
     z-index: 2;
